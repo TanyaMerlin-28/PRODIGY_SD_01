@@ -30,7 +30,6 @@ This project demonstrates basic Python concepts such as:
 2. Navigate to the project folder
 3. Run the command:
 
-
 python temperature_converter.py
 
 ⦁	Sample Output
