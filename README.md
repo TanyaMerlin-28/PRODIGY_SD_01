@@ -35,6 +35,7 @@ python temperature_converter.py
 ⦁	Sample Output
 
 Enter the temperature value: 25
+
 Enter the unit (C, F, or K): C
 
 25.0 °C = 77.00 °F
